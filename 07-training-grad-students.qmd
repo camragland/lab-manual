@@ -50,19 +50,102 @@ Specific requirements of MS and PhD students depend on whether they are enrolled
 
 Learning outcomes of a graduate degree from QMEL
 
-1. TBD
-2. TBD
+### Official Program Learning Outcomes (across MS/PhD and MB/IB) 
+
+
+By the time of graduation,  
+
+Students will demonstrate expertise in quantitative skills including (a) basic math and statistics; (b) spreadsheet software; (c) graphical presentation of quantitative data. 
+
+Students will demonstrate writing skills that enable them to prepare a scientific research paper in standard format for their field. 
+
+Students will demonstrate competency in experimental design, including the ability to articulate a testable hypothesis and design an appropriate experiment to test it. 
+
+Students will demonstrate communication skills including the ability to clearly explain scientific information to both professional and general audiences. 
+
+Students will demonstrate broad understanding of fundamental areas of biology, especially areas relevant to their research project. 
+ 
+
+In addition to the above learning outcomes, we have some more detailed requirements for those graduating from QMEL.  
+
+
+
+QMEL Learning Outcomes 
+
+ 
+
+An understanding of linear models, including GLMs, fixed versus random effects, residuals analyses, model interpretations 
+
+The use of Rmarkdown/Quarto for producing reproducible documents 
+
+Building clean code and documentation 
+
+MS students must submit a manuscript to a peer-reviewed journal by the time they graduate and PhD students must have at least one paper accepted by graduation 
+
+All students will present at a national/international conference in addition to presenting at UNH venues 
+
+All students must apply for at least one (on average) grant/fellowship per year (even if you already have funding for your work) 
+
+Students will know the key modern and historical literature relevant to their research project 
+
+Even if a data-driven or theoretical project, students will know the details of their species or study system inside out 
+
+All students should participate in some field work even if not the primary goal of their project 
+
+ 
+
+For PhD students considering academic careers, you should also participate in professional development activities relating to teaching (such as the Grad Cert in College Teaching, https://www.unh.edu/professional-success/ceitl/graduate-certificate-college-teaching) and be the instructor for a course. We usually have to be creative with how to get you to be the instructor for a course as it isn’t a common practice within our department.  
+
+ 
+
+In addition to courses and the thesis/dissertation, the requirements for graduation from the lab are as follows: 
+
+MS:  
+
+Passing: 1 manuscript in preparation for submission  
+
+Excel: 1 manuscript submitted, 1 in preparation for submission 
+
+PhD:  
+
+Passing: 2 submitted, a third possible  
+
+Excel: 1 published, 1 submitted, 1-2 that are possible 
+
+ 
 
 Key competencies
 
 1. 
 2. 
 
+### Course Registration
+
+Minimum number of credits 
+
+For graduate students the minimum semester requirement is 9 credits (6 credits if on a full assistantship) or registration for Master's Thesis (BIOL 899) or Doctoral Research (BIOL 999). For students after their first year, they will likely take just the 899 or 999, which are technically 0 credits, but ensure you are full-time. 
+
+Most of the information on this page is taken from https://catalog.unh.edu/graduate/general-information/registration/ 
+
+#### MS students 
+
+MS students need 30 credits to graduate. This is a mix of real courses, BIOL 895, and BIOL 899. If you are on a TA-ship, you should take 12 credits per semester. If you are on an RA-ship, we have to be more careful about how many classes you register for (it is more expensive for Easton if you are on an RA-ship). 
+
+If you TA in Fall and Spring, you can take J-term courses for free. You can take a real course or BIOL 895. You should be doing one or the either if this situation fits you, especially in year 1 of your MS. You can also take GRAD-listed courses (e.g., teaching workshops) in summer. 
+
+The “typical” MS student should complete all 30 credits (12 Fall, 4 J-term, 12 Spring, 2 Summer) if they are on TA-ship in year 1. Thus, we won’t have to pay for tuition during year 2. Once completed with courses, MS students simply register for BIOL 800 which gives them full time status without having to pay tuition. 
+
+Note that Master’s students are capped at 10 total credits of BIOL 899. If you need extra credits, you can enroll in GRAD 900 but to do that you need to contact the grad school. In general, “spend” your BIOL 899 credits wisely and consider how your courses are distributed across semesters to ease your coursework burden. 
+
+#### PhD Students 
+
+There are no credit requirements for PhD students. However, both the IB and MB degrees have course requirements (please see DBS documentation for details: https://colsa.unh.edu/biological-sciences/key-documents). The course “requirements” are a bit loose, and students can often petition out of the requirements. If you are on a TA-ship (and some specific RA-ships) your tuition is covered by the university. Thus, you are encouraged to take most of your coursework during these semesters. When you are not taking coursework, and especially after your qualifying exam, you can simply sign up for BIOL 999. It is a zero-credit course, but it ensures you are full-time and retain your student benefits. If is a LOT cheaper for students to take BIOL 999 ($1000 per semester) as opposed to other credits ($8000 per semester at least). If you are on an RA that Easton is paying for, it is best to not sign up for a lot of courses, but you should discuss with him further.  
+
+ 
+
 ### MS program
 
 #### MS proposal
-
-
 
 #### MS defense
 
